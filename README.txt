@@ -4,8 +4,8 @@ The range of ML classification techniques include KNN, Decision Trees, Adaboost,
 Due to class imbalances, performance is evaluated on the basis of F1 score. Performance is also analysed with respect to bias/variance trade-off. 
 
 Data:
-The data is sourced from the 1994  US Annual census, available: 
-The data is downloaded in two files, namely, training and testing set. 
+The data is sourced from the 1994  US Annual census, available here: https://archive.ics.uci.edu/ml/datasets/adult
+The data is downloaded in two files, namely, training and testing set. These are: 'adult' & 'adult.test'
 It includes 48,842 observations, a total of 14 categorical and continuous features
 
 To run:
